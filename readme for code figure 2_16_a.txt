@@ -7,7 +7,7 @@
 # --------------------------------------------------------------------------------------------------------------------
 #
 # - Code functionality: trendmap_pme_era5_19802019.m: This code calculates the trends in global precipitation minus evaporation (P-E) for the period 1980-2019 from ERA5 reanalysis
-# - Input data: NetCDF file of global precipitation and global evaporation from ERA5 reanalysis. The file can be accessed at: *Link to CEDA catalogue*
+# - Input data: NetCDF file of global precipitation and global evaporation from ERA5 reanalysis. The file can be accessed at: https://catalogue.ceda.ac.uk/uuid/cb95994d7b54414886d7b471b39839aa
 # - Output variables: The code plots figure 2.16 panel a as in the report
 #
 # ----------------------------------------------------------------------------------------------------
