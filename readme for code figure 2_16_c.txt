@@ -21,7 +21,7 @@
 #  License: Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)
 #
 # ----------------------------------------------------------------------------------------------------
-# How to cite:
+# How to cite: https://doi.org/10.5281/zenodo.6351531
 # When citing this code, please include both the code citation and the following citation for the related report component:
 ########################################################################
 
