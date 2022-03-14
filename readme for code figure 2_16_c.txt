@@ -7,7 +7,7 @@
 # --------------------------------------------------------------------------------------------------------------------
 #
 # - Code functionality: LPME.m: This code plots the time series of global land precipitation minus evaporation (P-E) for the period 1980-2016 from a variety of datasets
-# - Input data: MATLAB file of global land precipitation minus evaporation (P-E) from a variety of datasets. The file can be accessed at: *Link to CEDA catalogue*
+# - Input data: MATLAB file of global land precipitation minus evaporation (P-E) from a variety of datasets. The file can be accessed at: https://catalogue.ceda.ac.uk/uuid/cb95994d7b54414886d7b471b39839aa
 # - Output variables: The code plots figure 2.16 panel c as in the report
 #
 # ----------------------------------------------------------------------------------------------------
